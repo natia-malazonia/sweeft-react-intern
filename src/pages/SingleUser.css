@@ -1,0 +1,51 @@
+.user-page-container{
+    border: solid 0.5px rgb(179, 176, 176);
+}
+
+.user-details {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    width: 100%;
+    padding: 20px;
+}
+
+.user-image{
+    height: 200px;
+}
+
+.info{
+    width: 60%;
+    border: solid 1px rgb(133, 130, 130);
+    margin-left: 0.5%;
+}
+
+.address {
+    width: 12%;
+    margin-left: 1%;
+    border: solid 1px rgb(133, 130, 130);
+}
+
+.root-container {
+    margin: 5px auto;
+}
+
+span {
+    text-decoration: underline;
+}
+
+fieldset>div {
+    line-height: 21px;
+}
+
+legend {
+    font-weight: 100;
+}
+
+.user-name-page{
+    padding: 20px;
+}
+
+h2 {
+    margin-left: 20px;
+}
